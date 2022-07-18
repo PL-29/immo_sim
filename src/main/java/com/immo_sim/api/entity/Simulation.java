@@ -47,7 +47,7 @@ public class Simulation {
     @Column(name="notary_fees")
     private double notaryFees;
 
-    @Column(name="interests_cost")
+    @Column(name="monthly_loan_payment")
     private double monthlyLoanPayment;
     @Column(name="interests_cost")
     private double interestsCost;
